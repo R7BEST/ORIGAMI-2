@@ -1,0 +1,29 @@
+.header
+{
+    
+    background-color:rgb(0, 255, 149);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer
+{
+ display: flex;
+ 
+}
+
+body
+{
+    background-color:#000000;
+}
+
+.grid
+{
+    color: aqua;
+}
